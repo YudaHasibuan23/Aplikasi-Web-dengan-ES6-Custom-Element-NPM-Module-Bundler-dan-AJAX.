@@ -7,7 +7,6 @@
 
 <div align="center">
    
-<img src="" alt"AWSResto" width="800">
 </div>
 
 <br clear="both">
