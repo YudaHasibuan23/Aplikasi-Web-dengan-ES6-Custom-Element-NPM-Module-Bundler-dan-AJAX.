@@ -115,10 +115,3 @@ Repositori ini adalah submission dari Dicoding untuk kelas Belajar Fundamental F
 <br clear="both">
 <br clear="both">
 
-> Jika ada pertanyaan atau issue, kunjungi [new issue](https://github.com/Ardywsptr/AWSMovies_Submission-Fundamental-Front-End-Web-Developer/issues/new)
->
->Jika dokumentasi ini bermanfaat mari berteman dengan menekan tombol follow pada [profile](https://github.com/Ardywsptr) ini ☺☺☺
-
-<br clear="both">
-
-Big Thanks for [Dicoding](https://www.dicoding.com/)
