@@ -10,7 +10,7 @@
 <br clear="both">
 
 <div align="center">
-<img src="https://i.postimg.cc/qMVrBcWg/Black-And-White-Simple-Website-Launch-Instagram-Post.png" alt"AWSResto" width="800">
+<img src="" alt"AWSResto" width="800">
 </div>
 
 <br clear="both">
