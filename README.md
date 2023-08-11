@@ -5,11 +5,8 @@
 
 <br clear="both">
 
-## User Interface :
-
-<br clear="both">
-
 <div align="center">
+   
 <img src="" alt"AWSResto" width="800">
 </div>
 
